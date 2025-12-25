@@ -1,0 +1,9 @@
+.footer-menu div :not(h3) {
+    font-family: 'raleway', sans-serif;
+    font-weight: 700;
+    font-size: .95em;
+}
+
+.footer-menu div ul li {
+    padding: 8px 4px;
+}
